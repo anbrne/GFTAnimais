@@ -1,0 +1,13 @@
+C:\Users\Desenvolvimento\source\repos\GFTAnimais2\GFTAnimais2\bin\Debug\netcoreapp3.1\GFTAnimais2.exe
+C:\Users\Desenvolvimento\source\repos\GFTAnimais2\GFTAnimais2\bin\Debug\netcoreapp3.1\GFTAnimais2.deps.json
+C:\Users\Desenvolvimento\source\repos\GFTAnimais2\GFTAnimais2\bin\Debug\netcoreapp3.1\GFTAnimais2.runtimeconfig.json
+C:\Users\Desenvolvimento\source\repos\GFTAnimais2\GFTAnimais2\bin\Debug\netcoreapp3.1\GFTAnimais2.runtimeconfig.dev.json
+C:\Users\Desenvolvimento\source\repos\GFTAnimais2\GFTAnimais2\bin\Debug\netcoreapp3.1\GFTAnimais2.dll
+C:\Users\Desenvolvimento\source\repos\GFTAnimais2\GFTAnimais2\bin\Debug\netcoreapp3.1\GFTAnimais2.pdb
+C:\Users\Desenvolvimento\source\repos\GFTAnimais2\GFTAnimais2\obj\Debug\netcoreapp3.1\GFTAnimais2.csprojAssemblyReference.cache
+C:\Users\Desenvolvimento\source\repos\GFTAnimais2\GFTAnimais2\obj\Debug\netcoreapp3.1\GFTAnimais2.AssemblyInfoInputs.cache
+C:\Users\Desenvolvimento\source\repos\GFTAnimais2\GFTAnimais2\obj\Debug\netcoreapp3.1\GFTAnimais2.AssemblyInfo.cs
+C:\Users\Desenvolvimento\source\repos\GFTAnimais2\GFTAnimais2\obj\Debug\netcoreapp3.1\GFTAnimais2.csproj.CoreCompileInputs.cache
+C:\Users\Desenvolvimento\source\repos\GFTAnimais2\GFTAnimais2\obj\Debug\netcoreapp3.1\GFTAnimais2.dll
+C:\Users\Desenvolvimento\source\repos\GFTAnimais2\GFTAnimais2\obj\Debug\netcoreapp3.1\GFTAnimais2.pdb
+C:\Users\Desenvolvimento\source\repos\GFTAnimais2\GFTAnimais2\obj\Debug\netcoreapp3.1\GFTAnimais2.genruntimeconfig.cache
